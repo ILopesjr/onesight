@@ -1,0 +1,8 @@
+/mysql/#innodb_temp/
+/mysql/#innodb_redo/
+/mysql/auto.cnf
+/mysql/binlog.000001
+/mysql/binlog.000002
+/mysql/binlog.index
+/mysql/ib_buffer_pool
+/mysql/ibtmp1
